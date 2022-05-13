@@ -2,6 +2,7 @@
 layout: page
 title: "Diffusion model"
 permalink: /diffusion_model/
+theme: jekyll-theme-architect
 ---
 
 # Diffusion model
