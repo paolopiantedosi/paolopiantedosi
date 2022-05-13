@@ -8,3 +8,5 @@ theme: jekyll-theme-architect
 # Diffusion model
 
 diffusion model
+
+[https://paolopiantedosi.github.io/paolopiantedosi/](back)
