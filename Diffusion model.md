@@ -9,4 +9,4 @@ theme: jekyll-theme-architect
 
 diffusion model
 
-[https://paolopiantedosi.github.io/paolopiantedosi/](back)
+[back](https://paolopiantedosi.github.io/paolopiantedosi/)
