@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Diffusion model"
 permalink: /diffusion_model/
 theme: jekyll-theme-architect
